@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.4.1_01" class="java.beans.XMLDecoder">
+	<void class="com.sun.j3d.utils.geometry.GeometryInfo" id="Cube-gi0">
+		<object class="com.sun.j3d.utils.geometry.GeometryInfo" field="TRIANGLE_ARRAY"></object>
+		<void property="coordinates">
+			<array class="float" length="108">
+				<void index="0">
+					<float>1.0</float>
+				</void>
+				<void index="1">
+					<float>0.999999940395</float>
+				</void>
+				<void index="2">
+					<float>-1.0</float>
+				</void>
+				<void index="3">
+					<float>1.0</float>
+				</void>
+				<void index="4">
+					<float>-1.0</float>
+				</void>
+				<void index="5">
+					<float>-1.0</float>
+				</void>
+				<void index="6">
+					<float>-1.00000011921</float>
+				</void>
+				<void index="7">
+					<float>-0.999999821186</float>
+				</void>
+				<void index="8">
+					<float>-1.0</float>
+				</void>
+				<void index="9">
+					<float>1.0</float>
+				</void>
+				<void index="10">
+					<float>0.999999940395</float>
+				</void>
+				<void index="11">
+					<float>-1.0</float>
+				</void>
+				<void index="12">
+					<float>-1.00000011921</float>
+				</void>
+				<void index="13">
+					<float>-0.999999821186</float>
+				</void>
+				<void index="14">
+					<float>-1.0</float>
+				</void>
+				<void index="15">
+					<float>-0.999999642372</float>
+				</void>
+				<void index="16">
+					<float>1.00000035763</float>
+				</void>
+				<void index="17">
+					<float>-1.0</float>
+				</void>
+				<void index="18">
+					<float>1.00000047684</float>
+				</void>
+				<void index="19">
+					<float>0.999999463558</float>
+				</void>
+				<void index="20">
+					<float>1.0</float>
+				</void>
+				<void index="21">
+					<float>-0.999999940395</float>
+				</void>
+				<void index="22">
+					<float>1.0</float>
+				</void>
+				<void index="23">
+					<float>1.0</float>
+				</void>
+				<void index="24">
+					<float>-1.00000035763</float>
+				</void>
+				<void index="25">
+					<float>-0.999999642372</float>
+				</void>
+				<void index="26">
+					<float>1.0</float>
+				</void>
+				<void index="27">
+					<float>1.00000047684</float>
+				</void>
+				<void index="28">
+					<float>0.999999463558</float>
+				</void>
+				<void index="29">
+					<float>1.0</float>
+				</void>
+				<void index="30">
+					<float>-1.00000035763</float>
+				</void>
+				<void index="31">
+					<float>-0.999999642372</float>
+				</void>
+				<void index="32">
+					<float>1.0</float>
+				</void>
+				<void index="33">
+					<float>0.999999344349</float>
+				</void>
+				<void index="34">
+					<float>-1.00000059605</float>
+				</void>
+				<void index="35">
+					<float>1.0</float>
+				</void>
+				<void index="36">
+					<float>1.0</float>
+				</void>
+				<void index="37">
+					<float>0.999999940395</float>
+				</void>
+				<void index="38">
+					<float>-1.0</float>
+				</void>
+				<void index="39">
+					<float>1.00000047684</float>
+				</void>
+				<void index="40">
+					<float>0.999999463558</float>
+				</void>
+				<void index="41">
+					<float>1.0</float>
+				</void>
+				<void index="42">
+					<float>0.999999344349</float>
+				</void>
+				<void index="43">
+					<float>-1.00000059605</float>
+				</void>
+				<void index="44">
+					<float>1.0</float>
+				</void>
+				<void index="45">
+					<float>1.0</float>
+				</void>
+				<void index="46">
+					<float>0.999999940395</float>
+				</void>
+				<void index="47">
+					<float>-1.0</float>
+				</void>
+				<void index="48">
+					<float>0.999999344349</float>
+				</void>
+				<void index="49">
+					<float>-1.00000059605</float>
+				</void>
+				<void index="50">
+					<float>1.0</float>
+				</void>
+				<void index="51">
+					<float>1.0</float>
+				</void>
+				<void index="52">
+					<float>-1.0</float>
+				</void>
+				<void index="53">
+					<float>-1.0</float>
+				</void>
+				<void index="54">
+					<float>1.0</float>
+				</void>
+				<void index="55">
+					<float>-1.0</float>
+				</void>
+				<void index="56">
+					<float>-1.0</float>
+				</void>
+				<void index="57">
+					<float>0.999999344349</float>
+				</void>
+				<void index="58">
+					<float>-1.00000059605</float>
+				</void>
+				<void index="59">
+					<float>1.0</float>
+				</void>
+				<void index="60">
+					<float>-1.00000035763</float>
+				</void>
+				<void index="61">
+					<float>-0.999999642372</float>
+				</void>
+				<void index="62">
+					<float>1.0</float>
+				</void>
+				<void index="63">
+					<float>1.0</float>
+				</void>
+				<void index="64">
+					<float>-1.0</float>
+				</void>
+				<void index="65">
+					<float>-1.0</float>
+				</void>
+				<void index="66">
+					<float>-1.00000035763</float>
+				</void>
+				<void index="67">
+					<float>-0.999999642372</float>
+				</void>
+				<void index="68">
+					<float>1.0</float>
+				</void>
+				<void index="69">
+					<float>-1.00000011921</float>
+				</void>
+				<void index="70">
+					<float>-0.999999821186</float>
+				</void>
+				<void index="71">
+					<float>-1.0</float>
+				</void>
+				<void index="72">
+					<float>-1.00000011921</float>
+				</void>
+				<void index="73">
+					<float>-0.999999821186</float>
+				</void>
+				<void index="74">
+					<float>-1.0</float>
+				</void>
+				<void index="75">
+					<float>-1.00000035763</float>
+				</void>
+				<void index="76">
+					<float>-0.999999642372</float>
+				</void>
+				<void index="77">
+					<float>1.0</float>
+				</void>
+				<void index="78">
+					<float>-0.999999940395</float>
+				</void>
+				<void index="79">
+					<float>1.0</float>
+				</void>
+				<void index="80">
+					<float>1.0</float>
+				</void>
+				<void index="81">
+					<float>-1.00000011921</float>
+				</void>
+				<void index="82">
+					<float>-0.999999821186</float>
+				</void>
+				<void index="83">
+					<float>-1.0</float>
+				</void>
+				<void index="84">
+					<float>-0.999999940395</float>
+				</void>
+				<void index="85">
+					<float>1.0</float>
+				</void>
+				<void index="86">
+					<float>1.0</float>
+				</void>
+				<void index="87">
+					<float>-0.999999642372</float>
+				</void>
+				<void index="88">
+					<float>1.00000035763</float>
+				</void>
+				<void index="89">
+					<float>-1.0</float>
+				</void>
+				<void index="90">
+					<float>1.00000047684</float>
+				</void>
+				<void index="91">
+					<float>0.999999463558</float>
+				</void>
+				<void index="92">
+					<float>1.0</float>
+				</void>
+				<void index="93">
+					<float>1.0</float>
+				</void>
+				<void index="94">
+					<float>0.999999940395</float>
+				</void>
+				<void index="95">
+					<float>-1.0</float>
+				</void>
+				<void index="96">
+					<float>-0.999999642372</float>
+				</void>
+				<void index="97">
+					<float>1.00000035763</float>
+				</void>
+				<void index="98">
+					<float>-1.0</float>
+				</void>
+				<void index="99">
+					<float>1.00000047684</float>
+				</void>
+				<void index="100">
+					<float>0.999999463558</float>
+				</void>
+				<void index="101">
+					<float>1.0</float>
+				</void>
+				<void index="102">
+					<float>-0.999999642372</float>
+				</void>
+				<void index="103">
+					<float>1.00000035763</float>
+				</void>
+				<void index="104">
+					<float>-1.0</float>
+				</void>
+				<void index="105">
+					<float>-0.999999940395</float>
+				</void>
+				<void index="106">
+					<float>1.0</float>
+				</void>
+				<void index="107">
+					<float>1.0</float>
+				</void>
+			</array>
+		</void>
+	</void>
+	<void class="com.sun.j3d.utils.geometry.NormalGenerator">
+		<void property="creaseAngle">
+			<object class="java.lang.Math" field="PI"></object>
+		</void>
+		<void method="generateNormals">
+			<object idref="Cube-gi0"></object>
+		</void>
+	</void>
+	<void class="com.sun.j3d.utils.geometry.Stripifier">
+		<void method="stripify">
+			<object idref="Cube-gi0"></object>
+		</void>
+	</void>
+	<void idref="Cube-gi0">
+		<void property="geometryArray" id="Cube-ga0"></void>
+	</void>
+	<object class="javax.media.j3d.Shape3D">
+		<void property="geometry">
+			<object idref="Cube-ga0"></object>
+		</void>
+		<void property="appearance">
+			<object class="javax.media.j3d.Appearance">
+				<void property="material">
+					<object class="javax.media.j3d.Material">
+						<object class="javax.vecmath.Color3f">
+							<float>0.40000000596</float>
+							<float>0.40000000596</float>
+							<float>0.40000000596</float>
+						</object>
+						<object class="javax.vecmath.Color3f">
+							<float>0.0</float>
+							<float>0.0</float>
+							<float>0.0</float>
+						</object>
+						<object class="javax.vecmath.Color3f">
+							<float>0.800000011921</float>
+							<float>0.800000011921</float>
+							<float>0.800000011921</float>
+						</object>
+						<object class="javax.vecmath.Color3f">
+							<float>1.0</float>
+							<float>1.0</float>
+							<float>1.0</float>
+						</object>
+						<float>32.0</float>
+					</object>
+				</void>
+			</object>
+		</void>
+	</object>
+</java>
